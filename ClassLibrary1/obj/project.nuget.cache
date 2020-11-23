@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kZvs8wRvN7sq3BnahlxEjaAQjAKGwNcBD/NS/F8w9LY/FJOlADrQ7BK1Q9y/vpjxu1NqmK6C5XCLjFwcue5YdQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROJECTS\\Selenium C#\\SeleniumCourse\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Milia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Milia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

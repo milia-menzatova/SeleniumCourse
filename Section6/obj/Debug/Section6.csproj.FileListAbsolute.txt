@@ -1,0 +1,14 @@
+D:\PROJECTS\Selenium C#\SeleniumCourse\Section6\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\Section6\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\Section6\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\Section6\bin\Debug\Section6.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\Section6\bin\Debug\Section6.pdb
+D:\PROJECTS\Selenium C#\SeleniumCourse\Section6\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\Section6\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\Section6\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\PROJECTS\Selenium C#\SeleniumCourse\Section6\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\PROJECTS\Selenium C#\SeleniumCourse\Section6\obj\Debug\Section6.csprojAssemblyReference.cache
+D:\PROJECTS\Selenium C#\SeleniumCourse\Section6\obj\Debug\Section6.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Selenium C#\SeleniumCourse\Section6\obj\Debug\Section6.csproj.CopyComplete
+D:\PROJECTS\Selenium C#\SeleniumCourse\Section6\obj\Debug\Section6.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\Section6\obj\Debug\Section6.pdb

@@ -1,0 +1,13 @@
+D:\PROJECTS\Selenium C#\SeleniumCourse\SeleniumCourse\bin\Debug\netcoreapp3.1\SeleniumCourse.exe
+D:\PROJECTS\Selenium C#\SeleniumCourse\SeleniumCourse\bin\Debug\netcoreapp3.1\SeleniumCourse.deps.json
+D:\PROJECTS\Selenium C#\SeleniumCourse\SeleniumCourse\bin\Debug\netcoreapp3.1\SeleniumCourse.runtimeconfig.json
+D:\PROJECTS\Selenium C#\SeleniumCourse\SeleniumCourse\bin\Debug\netcoreapp3.1\SeleniumCourse.runtimeconfig.dev.json
+D:\PROJECTS\Selenium C#\SeleniumCourse\SeleniumCourse\bin\Debug\netcoreapp3.1\SeleniumCourse.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\SeleniumCourse\bin\Debug\netcoreapp3.1\SeleniumCourse.pdb
+D:\PROJECTS\Selenium C#\SeleniumCourse\SeleniumCourse\obj\Debug\netcoreapp3.1\SeleniumCourse.csprojAssemblyReference.cache
+D:\PROJECTS\Selenium C#\SeleniumCourse\SeleniumCourse\obj\Debug\netcoreapp3.1\SeleniumCourse.AssemblyInfoInputs.cache
+D:\PROJECTS\Selenium C#\SeleniumCourse\SeleniumCourse\obj\Debug\netcoreapp3.1\SeleniumCourse.AssemblyInfo.cs
+D:\PROJECTS\Selenium C#\SeleniumCourse\SeleniumCourse\obj\Debug\netcoreapp3.1\SeleniumCourse.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Selenium C#\SeleniumCourse\SeleniumCourse\obj\Debug\netcoreapp3.1\SeleniumCourse.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\SeleniumCourse\obj\Debug\netcoreapp3.1\SeleniumCourse.pdb
+D:\PROJECTS\Selenium C#\SeleniumCourse\SeleniumCourse\obj\Debug\netcoreapp3.1\SeleniumCourse.genruntimeconfig.cache

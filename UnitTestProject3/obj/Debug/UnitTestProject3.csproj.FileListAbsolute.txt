@@ -1,0 +1,14 @@
+D:\PROJECTS\Selenium C#\SeleniumCourse\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\UnitTestProject3\bin\Debug\UnitTestProject3.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\UnitTestProject3\bin\Debug\UnitTestProject3.pdb
+D:\PROJECTS\Selenium C#\SeleniumCourse\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\PROJECTS\Selenium C#\SeleniumCourse\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\PROJECTS\Selenium C#\SeleniumCourse\UnitTestProject3\obj\Debug\UnitTestProject3.csprojAssemblyReference.cache
+D:\PROJECTS\Selenium C#\SeleniumCourse\UnitTestProject3\obj\Debug\UnitTestProject3.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Selenium C#\SeleniumCourse\UnitTestProject3\obj\Debug\UnitTestProject3.csproj.CopyComplete
+D:\PROJECTS\Selenium C#\SeleniumCourse\UnitTestProject3\obj\Debug\UnitTestProject3.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\UnitTestProject3\obj\Debug\UnitTestProject3.pdb

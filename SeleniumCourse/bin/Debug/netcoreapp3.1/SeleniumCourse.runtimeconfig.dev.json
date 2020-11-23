@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Milia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Milia\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+D:\PROJECTS\Selenium C#\SeleniumCourse\QuizEmployee\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\QuizEmployee\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\QuizEmployee\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\QuizEmployee\bin\Debug\QuizEmployee.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\QuizEmployee\bin\Debug\QuizEmployee.pdb
+D:\PROJECTS\Selenium C#\SeleniumCourse\QuizEmployee\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\QuizEmployee\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\QuizEmployee\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\PROJECTS\Selenium C#\SeleniumCourse\QuizEmployee\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\PROJECTS\Selenium C#\SeleniumCourse\QuizEmployee\obj\Debug\QuizEmployee.csprojAssemblyReference.cache
+D:\PROJECTS\Selenium C#\SeleniumCourse\QuizEmployee\obj\Debug\QuizEmployee.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Selenium C#\SeleniumCourse\QuizEmployee\obj\Debug\QuizEmployee.csproj.CopyComplete
+D:\PROJECTS\Selenium C#\SeleniumCourse\QuizEmployee\obj\Debug\QuizEmployee.dll
+D:\PROJECTS\Selenium C#\SeleniumCourse\QuizEmployee\obj\Debug\QuizEmployee.pdb
